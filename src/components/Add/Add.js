@@ -49,7 +49,7 @@ const Add = props => {
           </div>
           <br />
           <div>
-            <label htmlFor='txtRate'>Poster URL : </label>
+            <label htmlFor='txtRate'>Rate : </label>
             <input type='text' id='txtRate' placeholder='Poster URL' />
           </div>
           <br />
